@@ -1,6 +1,6 @@
 /* styles go here */
 
-.section {
+.section:not(:last-child) {
   margin-bottom: 10px;
 }
 
